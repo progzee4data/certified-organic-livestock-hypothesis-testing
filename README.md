@@ -51,6 +51,6 @@ An empirical statistical evaluation of U.S. state level certified organic livest
 
 Because state-level livestock distributions exhibit heavy right-skewness and non-normality, parametric $t$-tests are sensitive to extreme outliers. Future analyses should apply non-parametric methods—specifically the **Mann-Whitney U Test (Wilcoxon Rank-Sum)**—to compare regional median ranks without assuming normally distributed population data.
 
-## Background & Context
+## 📌Background & Context
 
 This project was completed as part of the ALX Africa Data Analytics Program to analyze state-level trends and statistical shifts in U.S. Certified Organic Livestock (COL) data between 2008 and 2011. Using parametric hypothesis testing in Google Sheets, the project evaluates nationwide temporal growth through paired $t$-tests, assesses regional disparities between Western and Southern states using Welch's independent $t$-tests, and addresses key methodological considerations such as data skewness, sample size constraints, and statistical power.
