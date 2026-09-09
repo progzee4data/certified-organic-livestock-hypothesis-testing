@@ -1,4 +1,3 @@
-![Uploading 2026-09-07_10-49-56.png…]()
 ![Uploading 2026-09-07_08-40-02.png…]()
 ![Uploading 2026-09-07_08-30-59.png…]()
 <img width="1920" height="1024" alt="2026-09-07_08-30-59" src="https://github.com/user-attachments/assets/f9b6986f-d113-41a9-b376-a950534632d1" /># Statistical Analysis of U.S. Certified Organic Livestock (2008 vs. 2011)
