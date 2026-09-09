@@ -1,4 +1,4 @@
-![Uploading 2026-09-07_08-30-59.png…]()
+![Uploading 2026-09-07_10-49-56.png…]()
 <img width="1920" height="1024" alt="2026-09-07_08-30-59" src="https://github.com/user-attachments/assets/f9b6986f-d113-41a9-b376-a950534632d1" /># Statistical Analysis of U.S. Certified Organic Livestock (2008 vs. 2011)
 
 An empirical statistical evaluation of U.S. state level certified organic livestock data. This project investigates temporal shifts across a 3-year period (2008 vs. 2011) and compares regional headcounts between Western and Southern states using parametric hypothesis testing in Google Sheets.
